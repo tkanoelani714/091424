@@ -1,0 +1,67 @@
+p {
+
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 0px;
+    margin-bottom:0px;
+}
+
+.video-title {
+
+font-weight: bold;
+font-size: 18px;
+width: 300px;
+line-height: 24px;
+margin-bottom: 5;
+}
+
+.view-history {
+    
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 16px;
+}
+
+.video-author {
+    
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 18px;
+}
+
+.video-description {
+   
+    font-size: 14;
+    width:280px;
+    color: rgb(96, 96, 96);
+    line-height: 22px;
+    margin-bottom: 85px;
+}
+
+.shop-now {
+    background-color: rgb(227, 65, 64);
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 21px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 14px;
+    text-align: center;
+
+}
+
+.shop-span {
+    color: white;
+    margin-left: 13px;
+}
+
+.shop-span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
